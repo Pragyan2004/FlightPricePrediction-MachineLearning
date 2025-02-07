@@ -4,10 +4,15 @@ A Machine Learning-based Web Application that predicts the price of flight ticke
 
 # Features
  User-friendly interface to input flight details
+ 
  Machine Learning model integration for price prediction
+ 
  Flask backend for handling user requests
+ 
  HTML & CSS frontend for displaying results
+ 
  Form validation and error handling
+ 
  Deployment-ready Flask application
 
 # Tech Stack
