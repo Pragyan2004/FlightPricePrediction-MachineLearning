@@ -1,4 +1,4 @@
-# Flight Price Prediction Web App 🚀
+# Flight Price Prediction 🚀
 
 A Machine Learning-based Web Application that predicts the price of flight tickets based on user inputs such as airline, departure time, source city, destination city, travel class, and stops. The model is trained on historical flight data and integrated with a Flask web application using HTML, CSS, and Bootstrap for the frontend.
 
