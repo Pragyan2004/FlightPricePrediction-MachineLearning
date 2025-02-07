@@ -17,9 +17,13 @@ A Machine Learning-based Web Application that predicts the price of flight ticke
 
 # Tech Stack
   Programming Language: Python
+  
   Frameworks: Flask, Scikit-learn
+  
   Frontend: HTML, CSS
+  
   Libraries Used: Pandas, NumPy, Pickle, Matplotlib
+  
   Model Used: Linear Regression
 
 # Run the Flask Application
